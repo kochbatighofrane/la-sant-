@@ -1,0 +1,13 @@
+DOCTYPE html
+<html lang="fr">
+   <head>
+       <meta charset="utf-8">
+        <title>LE titre de ma page</title>
+        <p>
+            Voici l'application d'analyse des données médicales:<br>
+          <img src="photo analyse médicale" alt="photo analyse médicale " />
+            </p>
+    </head>
+    <body>
+    </body>
+</html>
